@@ -41,4 +41,4 @@ For the IFFT task use `Google Assistant` as the `IF` triger and voice such as 'c
 NOTE: `$` in teh commad means any text.
 
 ## Usage
-With all our setup done, whenever you politely ask google for anything it would send a request to the API endpoint provided by webtask.io which would then send a message to slack or hipchat. All you need to do is sound shocked, worried and responsible at teh same time and rush back to fix the bug !!
+With all our setup done, whenever you politely ask google for anything it would send a request to the API endpoint provided by webtask.io which would then send a message to slack or hipchat. All you need to do is sound shocked, worried and responsible at the same time and rush back to fix the bug !!
